@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-source>
+	<url>jdbc:mysql://172.16.1.152</url>
+	<database>formation</database>
+	<port>3306</port>
+	<driver-class>com.mysql.jdbc.Driver</driver-class>
+	<login>formation</login>
+	<password>formation</password>
+</data-source>
