@@ -29,7 +29,7 @@ public class CheckFormation {
 				Element root=xmlDoc.getRootElement();
 				Element titre=root.getChild("titre");
 
-				
+				/* this a comment add by me */
 				formation= new Formation();
 				formation.setTitreFormation(titre.getText());
 				formation.setPrix(Integer.parseInt(root.getChildText("prix")));
